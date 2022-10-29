@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coursera_DSA.iml" filepath="$PROJECT_DIR$/.idea/Coursera_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Algorithms/Linear Progamming (Week 2)/Linear Progamming (Week 2).iml" filepath="$PROJECT_DIR$/Advance Algorithms/Linear Progamming (Week 2)/Linear Progamming (Week 2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Algorithms/Network Flow(Week 1)/Network Flow(Week 1).iml" filepath="$PROJECT_DIR$/Advance Algorithms/Network Flow(Week 1)/Network Flow(Week 1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Algorithms/SAT (Week 3)/SAT (Week 3).iml" filepath="$PROJECT_DIR$/Advance Algorithms/SAT (Week 3)/SAT (Week 3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm on Strings/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Algorithm on Strings/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm on Strings/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Algorithm on Strings/Week 2/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm on Strings/Week 3/Week 3.iml" filepath="$PROJECT_DIR$/Algorithm on Strings/Week 3/Week 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Algorithms/Week 4/Week 4.iml" filepath="$PROJECT_DIR$/Advance Algorithms/Week 4/Week 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/week1_basic_data_structures/week1_basic_data_structures.iml" filepath="$PROJECT_DIR$/Data Structure/week1_basic_data_structures/week1_basic_data_structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic Toolbox/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" filepath="$PROJECT_DIR$/Algorithmic Toolbox/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/week2_priority_queues_and_disjoint_sets/week2_priority_queues_and_disjoint_sets.iml" filepath="$PROJECT_DIR$/Data Structure/week2_priority_queues_and_disjoint_sets/week2_priority_queues_and_disjoint_sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic Toolbox/week3_greedy_algorithms/week3_greedy_algorithms.iml" filepath="$PROJECT_DIR$/Algorithmic Toolbox/week3_greedy_algorithms/week3_greedy_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/week3_hash_tables/week3_hash_tables.iml" filepath="$PROJECT_DIR$/Data Structure/week3_hash_tables/week3_hash_tables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/week4_binary_search_trees/week4_binary_search_trees.iml" filepath="$PROJECT_DIR$/Data Structure/week4_binary_search_trees/week4_binary_search_trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic Toolbox/week4_divide_and_conquer/week4_divide_and_conquer.iml" filepath="$PROJECT_DIR$/Algorithmic Toolbox/week4_divide_and_conquer/week4_divide_and_conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic Toolbox/week5_dynamic_programming1/week5_dynamic_programming1.iml" filepath="$PROJECT_DIR$/Algorithmic Toolbox/week5_dynamic_programming1/week5_dynamic_programming1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic Toolbox/week6_dynamic_programming2/week6_dynamic_programming2.iml" filepath="$PROJECT_DIR$/Algorithmic Toolbox/week6_dynamic_programming2/week6_dynamic_programming2.iml" />
+    </modules>
+  </component>
+</project>
