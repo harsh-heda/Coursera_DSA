@@ -12,7 +12,6 @@ typedef vector<edges> trie;
 
 trie build_trie(vector<string> & patterns) {
   trie t;
-  // write your code here
   return t;
 }
 
